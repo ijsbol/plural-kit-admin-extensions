@@ -1,0 +1,10 @@
+__all__ = (
+    "PLURAL_KIT_BOT_USER_ID",
+    "DEFAULT_ALERT_MESSAGE",
+    "DEFAULT_AUTO_DELETE_TIMEOUT"
+)
+
+
+PLURAL_KIT_BOT_USER_ID = 466378653216014359
+DEFAULT_ALERT_MESSAGE = "You need the (!role) role to use PluralKit proxying on this server."
+DEFAULT_AUTO_DELETE_TIMEOUT = 5
